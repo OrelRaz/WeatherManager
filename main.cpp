@@ -42,7 +42,7 @@ int main() {
     // Load Fonts
     io.Fonts->AddFontDefault();
 
-    WeatherManager weatherManager("13cb2a7d204618b913590be8f4b1f8eb"); // Our API key
+    WeatherManager weatherManager("Enter your API key"); // your API key
     // 202b20677170de8ee0ca0e1c18e012d2 - buckup API key
 
     // Main loop
