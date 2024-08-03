@@ -1,0 +1,12 @@
+Export Date and Time: 2024-07-28 14:13:36
+
+City: London
+Temperature: 23.81°C
+Humidity: 49%
+Wind Speed: 0.45 m/s
+
+City: Rome
+Temperature: 22.92°C
+Humidity: 94%
+Wind Speed: 0 m/s
+
